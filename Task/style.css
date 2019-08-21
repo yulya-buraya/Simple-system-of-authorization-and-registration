@@ -1,0 +1,83 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
+body {
+	background: #0f2b41;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	height: 100%;
+}
+#Table1 {
+	margin-top:-60px;
+	position: relative;
+	background: #ecf0f1;
+	max-width: 390px;
+	border-radius: 10px;
+	border-top: 8px solid #e74c3c;
+	box-shadow: 5px 3px 10px #333;
+	padding: 15px;
+	width: 380px;
+}
+
+h2 {
+	text-align: center;
+	font-weight: 200;
+	font-size: 2em;
+	margin-top: 10px;
+	color: #34495e;
+}
+
+.form {
+	padding-top: 170px;
+	text-align: center;
+}
+#Button1 {
+	width: 80%;
+	margin-bottom: 25px;
+	height: 40px;
+	border-radius: 5px;
+	outline: 0;
+	background: #d60d0d;
+	background: #e74c3c;
+	border: none;
+	color: white;
+	font-size: 18px;
+	font-weight: 200;
+	cursor: pointer;
+	transition: box-shadow .4s ease;
+}
+#TextBox1 {
+	border: 1px solid #bbb;
+	padding: 0 0 0 10px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	height: 30px;
+}
+#TextBox2 {
+	border: 1px solid #bbb;
+	padding: 0 0 0 10px;
+	font-size: 18px;
+	margin-top:10px;
+	margin-bottom:20px;
+	height:30px;
+	
+
+}
+#TextBox3 {
+	border: 1px solid #bbb;
+	padding: 0 0 0 10px;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	height: 30px;
+}
+#HylerLink1 
+{
+	text-align: center;
+	font-size: 12px;
+	color: #3498db;
+}
+#Label1 {
+	text-align: center;
+	font-size: 12px;
+	color: #9d0d0d
+}
